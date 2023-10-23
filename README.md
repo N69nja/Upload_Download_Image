@@ -1,6 +1,4 @@
 # Upload_Download_Image
-=======
-README for the provided code:
 
 **Server Side:**
 - The server side code is implemented using Flask, a Python web framework.
